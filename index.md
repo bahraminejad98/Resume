@@ -15,9 +15,13 @@
 ### Skill Highlights
 
 ---
-+ Logo Design
-+ Banner Design
-+ 
++ Logo Designer
++ Banner Designer
++ Wordpress
++ Logo Motion  Designer
++ Motion Graphic Designer
++ Graphic Designs
++ Onlien battleground Games
 
 
 ### Education
@@ -38,15 +42,19 @@
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Manipulation Photoshop
++ Volleyball
++ Goalkeeping
++ Video Games
++ Web Surfing
+
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ Freelancer
++ Web Developer and Support
++ Logo Designer
 
 
 
