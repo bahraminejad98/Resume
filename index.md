@@ -1,36 +1,39 @@
 
-### Anahita Taheri
+### Mohammad Bahraminejad
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Mohammad
++ last name : Bahraminejad
++ Date of birth : 1998/May/16
++ I'm Computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Logo Design
++ Banner Design
++ 
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Farhangian Highschool 2016/2017
++ Bachelor of science : payam Noor University of North since 2017
 
 ### language
 
 ---
 + Persian
 + English
++ Azeri
++ Germany
+
 
 ### Favorites
 
