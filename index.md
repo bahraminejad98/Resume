@@ -1,6 +1,8 @@
+<center><img src="https://uupload.ir/files/w65t_capt2ure.jpg"></center>
 
-### Mohammad Bahraminejad
-
+### About me
+I am Mohammad Bahraminejad.
+I am studying computer engineering shahriyar PNU University.
 
 ### Personal informations
 
@@ -20,6 +22,7 @@
 + Wordpress
 + Logo Motion  Designer
 + Motion Graphic Designer
++Story line
 + Graphic Designs
 + Onlien battleground Games
 
@@ -33,10 +36,10 @@
 ### language
 
 ---
-+ Persian
-+ English
-+ Azeri
-+ Germany
++ Persian 100%
++ English 80%
++ Azeri 30%
++ Germany 20%
 
 
 ### Favorites
